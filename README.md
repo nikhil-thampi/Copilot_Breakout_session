@@ -43,6 +43,11 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 
 ## Revision Section
 
+> [!NOTE]  
+> - The goal is to make sure that you are familiar with concepts of GitHub Copilot
+> - Your focus is not to complete the whole list of exercises within the allocated time.
+> - Instead enjoy each of these exercises and explore how GitHub Copilot can help you to tackle even unknown codebase 🙂
+
 ### Exercise 1
 1. Understand the logic for the exercise4.cpp and add sufficient inline documentation using GitHub Copilot. Create a README markdown file for the program.
 2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques and create a unit test plan for the new features. 
