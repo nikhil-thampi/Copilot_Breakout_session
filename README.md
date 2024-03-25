@@ -49,21 +49,21 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 > - Instead enjoy each of these exercises and explore how GitHub Copilot can help you to tackle even unknown codebase 🙂
 
 ### Exercise 1
-1. Understand the logic for the ***exercise4.cpp*** and add sufficient inline documentation using GitHub Copilot. Create a README markdown file for the program.
+1. Understand the logic for the ***exercise3.cpp*** and add sufficient inline documentation using GitHub Copilot. Create a README markdown file for the program.
 2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques and create a unit test plan for the new features. 
 
 ### Exercise 2
-1. Understand the COBOL file in ***exercise5.cbl*** and identify the underlying logic of the program. Translate the codebase in exercise2.cbl to C#, generate unit test cases for the code and corresponding documentation (including README markdown file).
+1. Understand the COBOL file in ***exercise4.cbl*** and identify the underlying logic of the program. Translate the codebase in exercise2.cbl to C#, generate unit test cases for the code and corresponding documentation (including README markdown file).
 
 ### Exercise 3
 
-1. Understand the existing logic in ***exercise6.cs*** and verify whether there are any existing issues/vulnerabilities. 
+1. Understand the existing logic in ***exercise5.cs*** and verify whether there are any existing issues/vulnerabilities. 
 2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques
 3. Create unit test cases for the updated code and generate the documentation to the program in such a way that a person who is compartively new to C# should be able to understand the logic.
 
 ### Bonus
 
-1. Verify the ***bonus_exercise.cpp*** program and verify how the smart pointer is implemented in the program.
+1. Verify the ***last_bonus_exercise.cpp*** program and verify how the smart pointer is implemented in the program.
 2. How can you modify the Animal class to add a new property to represent the age of the animal
 3. How can you make the program thread safe?
 4. After making the above changes, create the unit test plan and add documentation.
