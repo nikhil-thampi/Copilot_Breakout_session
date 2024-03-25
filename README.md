@@ -4,7 +4,7 @@
 
 > [!Important]
 > - Please use the Q&A section for asking your queries in the breakout section.
-> - All attendees will be muted by deafult. Please raise your hand ✋ if you would like to discuss any topic and organizer of your room will unmute you.
+> - All attendees will be muted by default. Please raise your hand ✋ if you would like to discuss any topic and organizer of your room will unmute you.
 > - Do not worry if you are not getting same response from GitHub Copilot as other members in the breakout room. We just have to reiterate the prompt based on the 4 pillars of the Prompt crafting, to get better results.
 > - For each section, complete the exercises in the sequential order.
 
