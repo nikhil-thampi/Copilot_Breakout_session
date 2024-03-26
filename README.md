@@ -30,7 +30,7 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 
 ### Exercise 3
 
-1. Translate the codebase you have created to C#, generate unit test cases for the code and corresponding documentation
+1. Translate the codebase you have created to C# (or Java), generate unit test cases for the code and corresponding documentation
 
 ### Exercise 4
 
