@@ -34,7 +34,7 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 
 ### Exercise 4
 
-3. Create a new C++ workspace, which will call an API from US National Weather Service to get the current temperature for a specific zipcode or city. The code should evaluate the temperate and identify the corresponding climate for that region.
+3. Create a new C++ workspace, which will call an API from US National Weather Service to get the current temperature for a specific zipcode or city. The code should evaluate the temperature and identify the corresponding climate for that region.
 
 
 > [!NOTE]  
