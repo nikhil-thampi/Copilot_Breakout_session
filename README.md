@@ -12,15 +12,18 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 
 ## Introduction Section
 
+> [!Important]
+> The exercises folder has code files in both C++ and Python. Pick the language of your choice to use to complete exercises 1-3 and the last bonus exercise.
+
 ### Exercise 1
-1. Generate documentation for the ***exercise1.cpp*** without using GitHub Copilot chat
+1. Generate documentation for the ***exercise1.cpp*** or ***exercise1.py*** without using GitHub Copilot chat
 
 > [!Tip]
 > For this exercise, try to use GitHub Copilot code completion option.
 
 ### Exercise 2
-1. Select ***exercise2.cpp*** and use GitHub Copilot Chat to understand the logic of the program. Generate the documentation and a README markdown file for the program.
-2. Add atleast 2 additional features to the existing C++ program of exercise2.cpp using GitHub Copilot
+1. Select ***exercise2.cpp*** or ***exercise2.py*** and use GitHub Copilot Chat to understand the logic of the program. Generate the documentation and a README markdown file for the program.
+2. Add at least 2 additional features to the existing C++ or Python program of exercise2.cpp or exercise2.py using GitHub Copilot
 3. Plan the unit testing of the additional features using GitHub Copilot
    
 > [!Tip]
@@ -34,7 +37,7 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 
 ### Exercise 4
 
-3. Create a new C++ workspace, which will call an API from US National Weather Service to get the current temperature for a specific zipcode or city. The code should evaluate the temperature and identify the corresponding climate for that region.
+3. Create a new C++ or Python workspace, which will call an API from the US National Weather Service to get the current temperature for a specific zipcode or city. The code should evaluate the temperature and identify the corresponding climate for that region.
 
 
 > [!NOTE]  
@@ -49,11 +52,11 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 > - Instead enjoy each of these exercises and explore how GitHub Copilot can help you to tackle even unknown codebase 🙂
 
 ### Exercise 1
-1. Understand the logic for the ***exercise3.cpp*** and add sufficient inline documentation using GitHub Copilot. Create a README markdown file for the program.
+1. Understand the logic for the ***exercise3.cpp*** or ***exercise3.py*** and add sufficient inline documentation using GitHub Copilot. Create a README markdown file for the program.
 2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques and create a unit test plan for the new features. 
 
 ### Exercise 2
-1. Understand the COBOL file in ***exercise4.cbl*** and identify the underlying logic of the program. Translate the codebase in exercise2.cbl to C#, generate unit test cases for the code and corresponding documentation (including README markdown file).
+1. Understand the COBOL file in ***exercise4.cbl*** and identify the underlying logic of the program. Translate the codebase in exercise2.cbl to C#, Java, or Python, generate unit test cases for the code and corresponding documentation (including README markdown file).
 
 ### Exercise 3
 
@@ -61,9 +64,12 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques.
 3. Create unit test cases for the updated code and generate the documentation to the program in such a way that a person who is comparatively new to C# should be able to understand the logic.
 
+> [!NOTE]
+> If you wish, you may translate ***exercise5.cs*** to another language, e.g. C++, Python, or Java, prior to beginning this exercise. Feel free to ask Copilot to do that for you!
+
 ### Bonus
 
-1. Verify the ***last_bonus_exercise.cpp*** program and verify how the smart pointer is implemented in the program.
+1. Verify the ***last_bonus_exercise.cpp*** or ***last_bonus_exercise.py*** program and verify how the smart pointer is implemented in the program.
 2. How can you modify the Animal class to add a new property to represent the age of the animal.
 3. How can you make the program thread safe?
 4. After making the above changes, create the unit test plan and add documentation.
