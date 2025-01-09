@@ -1,3 +1,5 @@
+type example code
+
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
